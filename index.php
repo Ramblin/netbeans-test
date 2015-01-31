@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         echo "<p>My first use of Git, does it do it?</p>";
         echo "<p>And more to the point, what happens when I save a new one?</p>";
+        echo "<p>Looking good Lucy!</p>";
         ?>
     </body>
 </html>
