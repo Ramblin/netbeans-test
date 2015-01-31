@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "My first use of Git, does it do it?";
+        echo "<p>My first use of Git, does it do it?</p>";
+        echo "<p>And more to the point, what happens when I save a new one?</p>";
         ?>
     </body>
 </html>
