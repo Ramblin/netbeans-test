@@ -12,3 +12,6 @@ echo "<p>This is the branched version</p>";
 
 // And now we see what happens to a new line
 // With a new line added to the master
+
+
+// After the third branch was created
