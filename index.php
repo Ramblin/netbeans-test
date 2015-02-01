@@ -15,6 +15,6 @@ and open the template in the editor.
         echo "<p>And more to the point, what happens when I save a new one?</p>";
         echo "<p>Looking good Lucy!</p>";
         ?>
-        <p>and now, to see what happens in the second brach ...</p>
+        <p>and now, to see what happens in the second branch ...</p>
     </body>
 </html>
