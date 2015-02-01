@@ -7,3 +7,5 @@
  */
 
 echo "<p>Does this one also get properly saved?</p>";
+
+// With a new line added to the master
