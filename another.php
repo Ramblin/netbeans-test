@@ -9,3 +9,5 @@
 echo "<p>Does this one also get properly saved?</p>";
 
 echo "<p>This is the branched version</p>";
+
+// And now we see what happens to a new line
